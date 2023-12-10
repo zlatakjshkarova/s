@@ -1,0 +1,41 @@
+.wer {
+    background-color: rgb(255, 221, 0);
+}
+
+.tr:hover {
+    background-color: brown;
+    color: aliceblue;
+
+}
+
+.weq {
+    background-color: darkgreen;
+    color: black;
+}
+
+.weq:hover {
+    background-color: chartreuse;
+    color: black;
+}
+
+input:hover {
+    background-color: brown;
+}
+
+
+
+.p {
+    width: 300px;
+    background-color: coral;
+}
+
+.sdf:after {
+    content: 'After';
+    color: coral;
+
+}
+
+.sdf:before {
+    content: 'Before';
+    color: crimson;
+}

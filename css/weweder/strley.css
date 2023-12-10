@@ -1,0 +1,11 @@
+input {
+    background-color: crimson;
+    width: 200px;
+    min-height: 100px;
+}
+
+input:hover {
+    width: 250px;
+    background-color: darkcyan;
+    color: aliceblue;
+}
